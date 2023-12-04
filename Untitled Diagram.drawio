@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T16:00:25.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_iWAgbVJYnuAaygA_nm0" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T16:43:01.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NKc77VN3ncClENc3HckV" version="22.1.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2793" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,6 +50,9 @@
         <mxCell id="PvGmognT5EnWfmdFGkZc-24" value="today jobs" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="150" y="265" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-25" target="PvGmognT5EnWfmdFGkZc-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PvGmognT5EnWfmdFGkZc-25" value="first job?" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="265" width="100" height="60" as="geometry" />
         </mxCell>
@@ -58,14 +61,6 @@
         </mxCell>
         <mxCell id="PvGmognT5EnWfmdFGkZc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-23" target="PvGmognT5EnWfmdFGkZc-8">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PvGmognT5EnWfmdFGkZc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-32" target="PvGmognT5EnWfmdFGkZc-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-130" y="665" />
-              <mxPoint x="-130" y="775" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="PvGmognT5EnWfmdFGkZc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-32" target="PvGmognT5EnWfmdFGkZc-41">
           <mxGeometry relative="1" as="geometry" />
@@ -79,15 +74,6 @@
         <mxCell id="PvGmognT5EnWfmdFGkZc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-10" target="PvGmognT5EnWfmdFGkZc-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvGmognT5EnWfmdFGkZc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-130" y="775" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-140" y="665" />
-              <mxPoint x="-140" y="775" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PvGmognT5EnWfmdFGkZc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-37" target="PvGmognT5EnWfmdFGkZc-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -100,6 +86,15 @@
         <mxCell id="PvGmognT5EnWfmdFGkZc-41" value="perform vehicle &lt;br&gt;check" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-60" y="775" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-460" y="805" />
+              <mxPoint x="-460" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PvGmognT5EnWfmdFGkZc-43" value="check again&lt;br&gt;for vehicle" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-340" y="775" width="120" height="60" as="geometry" />
         </mxCell>
@@ -107,13 +102,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PvGmognT5EnWfmdFGkZc-45" value="user clicks" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="155" y="615" width="90" height="100" as="geometry" />
+          <mxGeometry x="155" y="395" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PvGmognT5EnWfmdFGkZc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-24" target="PvGmognT5EnWfmdFGkZc-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PvGmognT5EnWfmdFGkZc-47" value="Jobs Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="PvGmognT5EnWfmdFGkZc-47" value="Jobs Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-49" value="All jobs for today&lt;br&gt;(ability to filter&lt;br&gt;them by Depot&lt;br&gt;or Field)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-50" target="PvGmognT5EnWfmdFGkZc-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-50" value="user clicks" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="155" y="615" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-47" target="PvGmognT5EnWfmdFGkZc-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.165;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-37" target="PvGmognT5EnWfmdFGkZc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.856;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-32" target="PvGmognT5EnWfmdFGkZc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PvGmognT5EnWfmdFGkZc-54" target="PvGmognT5EnWfmdFGkZc-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-54" value="Job item" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PvGmognT5EnWfmdFGkZc-56" value="Job Details&lt;br&gt;Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
