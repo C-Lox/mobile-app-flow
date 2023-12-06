@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T16:47:04.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rvmp_FBIGzviUIZb0s6Y" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T16:49:24.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wpuUcMM3bIJlso6AKsv2" version="22.1.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1363" dy="2753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="558" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -657,7 +657,7 @@
         <mxCell id="3YgIs-ONGYep-g5zf4NA-233" value="Not clear about Screens flow on tabs. &lt;br&gt;can we improve?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="3850.0000000000005" y="2539.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3YgIs-ONGYep-g5zf4NA-271" value="Think about job item&lt;br&gt;states (readonly, completed, failed, toValidate... etc)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-271" value="Think about job item&lt;br&gt;states (readonly, completed, failed, activeShift, toValidate... etc)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="2730.0000000000005" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-273" value="Enter Line manager&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(input)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
@@ -681,7 +681,7 @@
             <mxPoint x="1525" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3YgIs-ONGYep-g5zf4NA-280" value="how do the eng shows ready to start if no &lt;br&gt;&#39;Start Today jobs&#39; (depot) or&lt;br&gt;&#39;Drive to first job&#39; (Field) buttons?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-280" value="25395&lt;br&gt;how do the eng shows ready to start if no &lt;br&gt;&#39;Start Today jobs&#39; (depot) or&lt;br&gt;&#39;Drive to first job&#39; (Field) buttons?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="2680" y="890" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-281" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;" vertex="1" parent="1">
