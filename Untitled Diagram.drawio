@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T16:45:45.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LRuyckX9_wHDy6Mks2EY" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T16:47:04.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rvmp_FBIGzviUIZb0s6Y" version="22.1.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1363" dy="2753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -319,14 +319,11 @@
         <mxCell id="3YgIs-ONGYep-g5zf4NA-133" value="continue" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3940.0099999999998" y="750" width="95.11" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="3YgIs-ONGYep-g5zf4NA-139" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-139" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="3YgIs-ONGYep-g5zf4NA-281">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2945.45" y="1077.5" as="sourcePoint" />
             <mxPoint x="2800" y="1050" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3YgIs-ONGYep-g5zf4NA-140" value="FieldOnly" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2770" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-144" value="item code&lt;br&gt;e-code&lt;br&gt;serial number&lt;br&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1790" y="2010" width="120" height="50" as="geometry" />
@@ -686,6 +683,9 @@
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-280" value="how do the eng shows ready to start if no &lt;br&gt;&#39;Start Today jobs&#39; (depot) or&lt;br&gt;&#39;Drive to first job&#39; (Field) buttons?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="2680" y="890" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-281" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="1057.5" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
