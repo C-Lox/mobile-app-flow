@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T13:21:06.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-UYEt1pOogHvxD-EIXHU" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T13:56:30.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="n30jIydSlMMW2mvxMIKi" version="22.1.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="4518" dy="5728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-37" dy="1801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,8 +363,10 @@
         <mxCell id="3YgIs-ONGYep-g5zf4NA-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="3YgIs-ONGYep-g5zf4NA-151" target="3YgIs-ONGYep-g5zf4NA-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2788" y="2498" />
-              <mxPoint x="2788" y="2461" />
+              <mxPoint x="2220" y="2498" />
+              <mxPoint x="2220" y="2710" />
+              <mxPoint x="3640" y="2710" />
+              <mxPoint x="3640" y="2462" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -728,6 +730,9 @@
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-290" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;" vertex="1" parent="1">
           <mxGeometry x="3404.55" y="272.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-292" value="Job details&lt;br&gt;▽&lt;br&gt;Info&lt;br&gt;▽&lt;br&gt;Action&lt;br&gt;▽&lt;br&gt;Parts | Tasks&lt;br&gt;▽&lt;br&gt;Service&lt;br&gt;▽&lt;br&gt;Rental" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="1420" width="120" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
