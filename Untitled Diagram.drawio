@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T13:56:30.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="n30jIydSlMMW2mvxMIKi" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T14:29:04.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="boxgke-hu4mjY4FlWPic" version="22.1.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="-37" dy="1801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2984" dy="4406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,7 +304,7 @@
         <mxCell id="3YgIs-ONGYep-g5zf4NA-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3YgIs-ONGYep-g5zf4NA-126" target="3YgIs-ONGYep-g5zf4NA-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3YgIs-ONGYep-g5zf4NA-130" value="confirm unable to continue job?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3YgIs-ONGYep-g5zf4NA-128">
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-130" value="confirm unable to continue job" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3YgIs-ONGYep-g5zf4NA-128">
           <mxGeometry x="-0.0197" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="24" as="offset" />
           </mxGeometry>
@@ -317,11 +317,24 @@
         <mxCell id="3YgIs-ONGYep-g5zf4NA-132" value="Signature&lt;br&gt;component" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3782.45" y="692.75" width="95.11" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="3YgIs-ONGYep-g5zf4NA-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3YgIs-ONGYep-g5zf4NA-133" target="3YgIs-ONGYep-g5zf4NA-56">
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3YgIs-ONGYep-g5zf4NA-294" target="3YgIs-ONGYep-g5zf4NA-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2690" y="760" as="targetPoint" />
+            <mxPoint x="3620" y="730" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="2710" y="771" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-296" value="Mark Job item as failed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3YgIs-ONGYep-g5zf4NA-134">
+          <mxGeometry x="-0.3578" y="-1" relative="1" as="geometry">
+            <mxPoint x="229" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-295" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3YgIs-ONGYep-g5zf4NA-133" target="3YgIs-ONGYep-g5zf4NA-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3770" y="771" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -733,6 +746,9 @@
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-292" value="Job details&lt;br&gt;▽&lt;br&gt;Info&lt;br&gt;▽&lt;br&gt;Action&lt;br&gt;▽&lt;br&gt;Parts | Tasks&lt;br&gt;▽&lt;br&gt;Service&lt;br&gt;▽&lt;br&gt;Rental" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="3070" y="1420" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-294" value="failed risk assessment?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3610" y="731.25" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
