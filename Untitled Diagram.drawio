@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T09:12:14.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w0oB9ujZGlHdbLtoGsmP" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T09:21:07.838Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uoqZpVVfjgRgvOYbH1fG" version="22.1.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1590" dy="3204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="3414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -818,14 +818,14 @@
         <mxCell id="ET3vO4DCv7XPphqXGXjE-7" value="notice if &lt;br&gt;uncompleted &lt;br&gt;jobs.&lt;br&gt;inform planner" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2660" y="-235" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="ET3vO4DCv7XPphqXGXjE-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ET3vO4DCv7XPphqXGXjE-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2296" y="-20" as="sourcePoint" />
             <mxPoint x="2098" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-12" value="reopen shift if...?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="-70" width="60" height="30" as="geometry" />
+          <mxGeometry x="2140" y="-100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
