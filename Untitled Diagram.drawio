@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T17:00:57.662Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tp3E20Cy_vH_Bxhb4Ymq" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T17:08:38.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="81h8mb_zFOHgwfpWNbhP" version="22.1.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="144" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="370" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,6 +847,21 @@
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-20" value="confirm" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2380" y="-520" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-21" value="Jobs Complete Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="3195" y="2800" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-22" value="Machine unreparable" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="2894" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-23" value="Revisit needed" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="2930" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-24" value="Machine serviceable" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="2852" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-25" value="Job is incomplete" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="2966" width="130" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
