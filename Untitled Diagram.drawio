@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T17:17:00.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pgQRErts-12l-HNw2Lsx" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T17:20:34.271Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zlrO9xzKZEVYpcmdYn42" version="22.1.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="828" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-144" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -872,16 +872,21 @@
           <mxGeometry x="3335" y="3366" width="130" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-29" value="Ancillaries Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="4070" y="3116" width="160" height="250" as="geometry" />
+          <mxGeometry x="3697.45" y="2994" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-30" value="button??" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4085" y="3229" width="130" height="24" as="geometry" />
+          <mxGeometry x="3712.45" y="3107" width="130" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-32" value="list of dropdowns" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4085" y="3168" width="130" height="24" as="geometry" />
+          <mxGeometry x="3712.45" y="3046" width="130" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="ET3vO4DCv7XPphqXGXjE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.031;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ET3vO4DCv7XPphqXGXjE-24" target="ET3vO4DCv7XPphqXGXjE-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ET3vO4DCv7XPphqXGXjE-24" target="ET3vO4DCv7XPphqXGXjE-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3640" y="3264" />
+              <mxPoint x="3640" y="3119" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ET3vO4DCv7XPphqXGXjE-22" target="ET3vO4DCv7XPphqXGXjE-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -891,6 +896,27 @@
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-36" value="Not clear.&lt;br&gt;what is a REPAIR job?&lt;br&gt;do we have any screenshot?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3685" y="3276" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-37" value="Revisit reason Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="3697.45" y="3420" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-38" value="Specialist provider" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3712.45" y="3630" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-39" value="Get parts" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3712.45" y="3452" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-40" value="Get tools" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3712.45" y="3485" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-41" value="Other" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3712.45" y="3553" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-42" value="Get books" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3712.45" y="3520" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-43" value="Specialist Provider Required&lt;br&gt;some text here" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3692.45" y="3585" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
