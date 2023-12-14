@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T09:18:37.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YUWenTt7XdO9SB2xkoVQ" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:51:41.827Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0zx2vZmR-RWJNYQlRgwo" version="22.1.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="828" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="109" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,7 +204,7 @@
           <mxGeometry x="1770" y="1970" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-105" value="Engineer Completion Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="3750" y="628.75" width="160" height="250" as="geometry" />
+          <mxGeometry x="3750" y="628.75" width="160" height="341.25" as="geometry" />
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3YgIs-ONGYep-g5zf4NA-115" target="3YgIs-ONGYep-g5zf4NA-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -320,31 +320,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-132" value="Signature&lt;br&gt;component" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3782.45" y="692.75" width="95.11" height="45" as="geometry" />
+          <mxGeometry x="3770" y="830" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3YgIs-ONGYep-g5zf4NA-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3YgIs-ONGYep-g5zf4NA-294" target="3YgIs-ONGYep-g5zf4NA-56" edge="1">
+        <mxCell id="3YgIs-ONGYep-g5zf4NA-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="3YgIs-ONGYep-g5zf4NA-294" target="3YgIs-ONGYep-g5zf4NA-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2690" y="760" as="targetPoint" />
             <mxPoint x="3620" y="730" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2710" y="771" />
+              <mxPoint x="3560" y="800" />
+              <mxPoint x="2710" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-296" value="Mark Job item as failed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3YgIs-ONGYep-g5zf4NA-134" connectable="0" vertex="1">
           <mxGeometry x="-0.3578" y="-1" relative="1" as="geometry">
-            <mxPoint x="229" y="1" as="offset" />
+            <mxPoint x="-4" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-295" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3YgIs-ONGYep-g5zf4NA-133" target="3YgIs-ONGYep-g5zf4NA-294" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3770" y="771" />
+              <mxPoint x="3770" y="931" />
+              <mxPoint x="3770" y="931" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-133" value="continue" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3782.45" y="758.75" width="95.11" height="25" as="geometry" />
+          <mxGeometry x="3770" y="918.75" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-139" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="3YgIs-ONGYep-g5zf4NA-281" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -752,7 +754,7 @@
           <mxGeometry x="3070" y="1420" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-294" value="failed risk assessment?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3610" y="731.25" width="120" height="80" as="geometry" />
+          <mxGeometry x="3500" y="891.25" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3YgIs-ONGYep-g5zf4NA-297" value="25400/1/2/3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1755" y="1940" width="90" height="30" as="geometry" />
@@ -950,6 +952,15 @@
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-49" value="condition (textarea)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3712.45" y="3873" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-52" value="Take photos&lt;br&gt;component" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-53" value="fit for use / disabled&lt;br&gt;select button" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-54" value="charge dropdown" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="670" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
