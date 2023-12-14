@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T17:56:52.223Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VodoMdx0rOHbOyOaxmnP" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:18:37.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YUWenTt7XdO9SB2xkoVQ" version="22.1.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="-144" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -863,13 +863,23 @@
           <mxGeometry x="3335" y="3294" width="130" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ET3vO4DCv7XPphqXGXjE-23" target="ET3vO4DCv7XPphqXGXjE-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3640" y="3342" />
+              <mxPoint x="3640" y="3545" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-23" value="Revisit needed" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3335" y="3330" width="130" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-24" value="Machine serviceable" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3335" y="3252" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ET3vO4DCv7XPphqXGXjE-25" target="ET3vO4DCv7XPphqXGXjE-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3610" y="3750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-25" value="Job is incomplete" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3335" y="3366" width="130" height="24" as="geometry" />
@@ -923,6 +933,23 @@
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-45" value="revisit time estimate&lt;br&gt;where is this coming from?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3890" y="3513" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-46" value="Machine condition Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="3697.45" y="3760" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ET3vO4DCv7XPphqXGXjE-47" target="ET3vO4DCv7XPphqXGXjE-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3490" y="3820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-47" value="complete" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3712.45" y="3923" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-48" value="list of dropdowns" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3712.45" y="3812" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-49" value="condition (textarea)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3712.45" y="3873" width="130" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
