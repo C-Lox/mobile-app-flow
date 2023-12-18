@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T16:01:10.289Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0vD89jGCwfY0td4o-4v1" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T09:51:40.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ndPAwLzWNjRkd1wASjJ2" version="22.1.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1387" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="277" dy="2753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -902,7 +902,10 @@
         <mxCell id="ET3vO4DCv7XPphqXGXjE-29" value="Ancillaries Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="3697.45" y="2994" width="160" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="ET3vO4DCv7XPphqXGXjE-30" value="button??" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ET3vO4DCv7XPphqXGXjE-30" target="ET3vO4DCv7XPphqXGXjE-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-30" value="continue" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3712.45" y="3107" width="130" height="24" as="geometry" />
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-32" value="list of dropdowns" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
@@ -1098,6 +1101,21 @@
         </mxCell>
         <mxCell id="ET3vO4DCv7XPphqXGXjE-103" value="25429" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2630" y="-312" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-104" value="Machine Condition Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="4460" y="2994" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-105" value="continue" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4475" y="3187" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-106" value="Appearance dropdown" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4475" y="3046" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-107" value="Branding dropdown" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4475" y="3083" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ET3vO4DCv7XPphqXGXjE-108" value="Machine condition notes textarea" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4475" y="3120" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
