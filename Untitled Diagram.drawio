@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T18:34:38.232Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="46TT867o6tAumv5oX1RK" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T14:58:04.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="U1bLLkBM0WuDfOQ8OUW1" version="22.1.11" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2375" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3988" dy="3993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -926,7 +926,7 @@
         <mxCell id="ET3vO4DCv7XPphqXGXjE-37" value="Revisit reason Screen" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="3697.45" y="3420" width="160" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="hDqGhi5PYfsAFLTWCGEM-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ET3vO4DCv7XPphqXGXjE-38" edge="1">
+        <mxCell id="hDqGhi5PYfsAFLTWCGEM-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ET3vO4DCv7XPphqXGXjE-38" edge="1" target="hDqGhi5PYfsAFLTWCGEM-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4020" y="3642" as="targetPoint" />
           </mxGeometry>
@@ -1145,8 +1145,8 @@
         <mxCell id="hDqGhi5PYfsAFLTWCGEM-10" value="cont should go to engineer completion&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="3185" y="3488" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hDqGhi5PYfsAFLTWCGEM-13" value="this takes us&amp;nbsp;&lt;br&gt;to another screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="4027.56" y="3625" width="150" height="50" as="geometry" />
+        <mxCell id="hDqGhi5PYfsAFLTWCGEM-13" value="this takes us&amp;nbsp;&lt;br&gt;to another screen&lt;br&gt;&lt;br&gt;with specialist types (from Lvis)&lt;br&gt;&lt;br&gt;then job info (textarea)&lt;br&gt;&lt;br&gt;cont goes to revisit time estimates&lt;br&gt;&amp;nbsp;confirm goes to ancillaries&lt;br&gt;&lt;br&gt;then to eng&amp;nbsp; completion if no Machine condition available" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="3890" y="3650" width="430" height="220" as="geometry" />
         </mxCell>
         <mxCell id="-AE6zjeHY_V8Enr3Hatu-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ET3vO4DCv7XPphqXGXjE-25" target="-AE6zjeHY_V8Enr3Hatu-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
